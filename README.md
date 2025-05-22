@@ -57,6 +57,11 @@ Made with ❤️ by Manigandan
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/f46a115c-7956-4249-9a1d-60fb9805e83a) 
+
+![Image](https://github.com/user-attachments/assets/5a83b0b6-a585-4e81-98e1-758eed76fc3b)
+
+![Image](https://github.com/user-attachments/assets/c382a57e-fe8e-458c-9c00-6073558694bf)
 
 
 
