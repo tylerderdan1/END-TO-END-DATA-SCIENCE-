@@ -41,7 +41,7 @@ This project demonstrates an end-to-end machine learning pipeline using the **Ir
 'bash
 pip install flask scikit-learn joblib
 
- 2.Train the model
+2. Train the model
 python train_model.py
 
 3. Run the Flask API
