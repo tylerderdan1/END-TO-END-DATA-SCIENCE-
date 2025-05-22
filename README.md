@@ -65,6 +65,7 @@ Train_model:
 
 ![Image](https://github.com/user-attachments/assets/5a83b0b6-a585-4e81-98e1-758eed76fc3b)
 
+App_model.py
 
 ![Image](https://github.com/user-attachments/assets/c382a57e-fe8e-458c-9c00-6073558694bf)
 
