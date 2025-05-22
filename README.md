@@ -37,17 +37,17 @@ This project demonstrates an end-to-end machine learning pipeline using the **Ir
 
 ## 🚀 How to Run Locally
 
-### 1. Install dependencies
-```bash
+1. Install dependencies
+'bash
 pip install flask scikit-learn joblib
 
-### 2.Train the model
+2.Train the model
 python train_model.py
 
 3. Run the Flask API
 python app.py
 
-Flask server will start at:
+4.Flask server will start at:
 http://127.0.0.1:5000
 
 
